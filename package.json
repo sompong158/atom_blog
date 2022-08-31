@@ -1,0 +1,14 @@
+{
+  "name": "VMC",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "VMC",
+  "keywords": [
+    "VMC"
+  ],
+  "repository": "https://github.com/sompong158/atom_blog",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
